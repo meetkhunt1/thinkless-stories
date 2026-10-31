@@ -1,5 +1,74 @@
 [
- {"date": "2026-10-28", "theme": "procrastination", "stories": [{"layout": "contrast", "text": "If it's not perfect, don't even start. / A messy start beats a perfect plan."}, {"layout": "question", "text": "What are you avoiding today because it feels too big?"}, {"layout": "tip", "text": "Open it. Work 2 minutes. Then decide."}]},
- {"date": "2026-10-29", "theme": "night-time spirals", "stories": [{"layout": "contrast", "text": "Replay that awkward moment one more time. / Nobody else is still thinking about it."}, {"layout": "quote", "text": "Tired thoughts aren't true thoughts. Let them wait for morning."}, {"layout": "statement", "text": "You don't have to solve your life before you fall asleep."}]},
- {"date": "2026-10-30", "theme": "people-pleasing", "stories": [{"layout": "question", "text": "Who are you still trying to keep happy at your own cost?"}, {"layout": "tip", "text": "Before you say yes, pause for one breath."}, {"layout": "quote", "text": "Someone being disappointed doesn't mean you did wrong."}]}
+  {
+    "date": "2026-10-28",
+    "theme": "procrastination",
+    "stories": [
+      {
+        "layout": "contrast",
+        "text": "If it's not perfect, don't even start. / A messy start beats a perfect plan."
+      },
+      {
+        "layout": "question",
+        "text": "What are you avoiding today because it feels too big?"
+      },
+      {
+        "layout": "tip",
+        "text": "Open it. Work 2 minutes. Then decide."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "night-time spirals",
+    "stories": [
+      {
+        "layout": "contrast",
+        "text": "Replay that awkward moment one more time. / Nobody else is still thinking about it."
+      },
+      {
+        "layout": "quote",
+        "text": "Tired thoughts aren't true thoughts. Let them wait for morning."
+      },
+      {
+        "layout": "statement",
+        "text": "You don't have to solve your life before you fall asleep."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "people-pleasing",
+    "stories": [
+      {
+        "layout": "question",
+        "text": "Who are you still trying to keep happy at your own cost?"
+      },
+      {
+        "layout": "tip",
+        "text": "Before you say yes, pause for one breath."
+      },
+      {
+        "layout": "quote",
+        "text": "Someone being disappointed doesn't mean you did wrong."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "comparison",
+    "stories": [
+      {
+        "layout": "contrast",
+        "text": "Everyone else has it figured out. / You're seeing their best minute, not their whole day."
+      },
+      {
+        "layout": "quote",
+        "text": "Someone else moving fast doesn't make you late."
+      },
+      {
+        "layout": "tip",
+        "text": "When you compare, ask: what do I actually want?"
+      }
+    ]
+  }
 ]

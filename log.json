@@ -70,5 +70,23 @@
         "text": "When you compare, ask: what do I actually want?"
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "rest without guilt",
+    "stories": [
+      {
+        "layout": "contrast",
+        "text": "You haven't earned a break yet. / Rest is part of the work, not a reward."
+      },
+      {
+        "layout": "statement",
+        "text": "A slow Sunday is not a wasted one."
+      },
+      {
+        "layout": "tip",
+        "text": "Lie down. No phone. Ten quiet minutes."
+      }
+    ]
   }
 ]

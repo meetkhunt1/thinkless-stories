@@ -88,5 +88,23 @@
         "text": "Lie down. No phone. Ten quiet minutes."
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "decision paralysis",
+    "stories": [
+      {
+        "layout": "question",
+        "text": "Which choice are you still waiting to feel sure about?"
+      },
+      {
+        "layout": "contrast",
+        "text": "Pick wrong and you'll regret it. / Most choices are doors, not walls."
+      },
+      {
+        "layout": "tip",
+        "text": "Pick one. Give it a week. Then review."
+      }
+    ]
   }
 ]

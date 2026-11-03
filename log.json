@@ -106,5 +106,23 @@
         "text": "Pick one. Give it a week. Then review."
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "self-talk",
+    "stories": [
+      {
+        "layout": "contrast",
+        "text": "You always mess this up. / You're learning something hard."
+      },
+      {
+        "layout": "quote",
+        "text": "Talk to yourself like someone you're rooting for."
+      },
+      {
+        "layout": "tip",
+        "text": "Catch one harsh thought. Say it gentler."
+      }
+    ]
   }
 ]

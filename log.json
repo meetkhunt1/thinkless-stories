@@ -124,5 +124,23 @@
         "text": "Catch one harsh thought. Say it gentler."
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "small wins",
+    "stories": [
+      {
+        "layout": "question",
+        "text": "When did you last notice something you did right?"
+      },
+      {
+        "layout": "statement",
+        "text": "Your brain counts what's left. Try counting what's done."
+      },
+      {
+        "layout": "quote",
+        "text": "The bed is made. The dishes are done. That's not nothing."
+      }
+    ]
   }
 ]

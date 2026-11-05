@@ -142,5 +142,23 @@
         "text": "The bed is made. The dishes are done. That's not nothing."
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "theme": "fear of failure",
+    "stories": [
+      {
+        "layout": "contrast",
+        "text": "One mistake and it's over. / One mistake is one data point."
+      },
+      {
+        "layout": "statement",
+        "text": "A failed attempt still counts as an attempt."
+      },
+      {
+        "layout": "tip",
+        "text": "Do one small thing badly, on purpose."
+      }
+    ]
   }
 ]
